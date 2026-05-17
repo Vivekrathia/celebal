@@ -1,3 +1,5 @@
+#just so you dont forget everything 
+
 # ML Foundations — 
 
 This repository contains assignment focused on Machine Learning foundations, statistics, probability, linear algebra, NumPy, and Pandas using Python.
